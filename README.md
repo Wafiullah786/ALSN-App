@@ -69,8 +69,8 @@ GUEST SIDE SCREENSHOTS
 
 TRANSLATOR SCREENSHOTS
 
-<img src = "13.jpeg" width ="250" /> <img src = "14.jpeg" width ="250" /> <img src = "15.jpeg" width ="250" /> <img src = "16.jpeg" width ="250" /> <img src = "17.jpeg" width ="250" /> <img src = "18.jpeg" width ="250" /> <img src = "19.jpeg" width ="250" /> <img src = "20.jpeg" width ="250" /> 
+<img src = "13.jpg" width ="250" /> <img src = "14.jpg" width ="250" /> <img src = "15.jpg" width ="250" /> <img src = "16.jpg" width ="250" /> <img src = "17.jpg" width ="250" /> <img src = "18.jpg" width ="250" /> <img src = "19.jpg" width ="250" /> <img src = "20.jpg" width ="250" /> 
 
 TRANSLATION OFFICE SCREENSHOTS
 
-<img src = "21.jpeg" width ="250" /> <img src = "22.jpeg" width ="250" /> <img src = "23.jpeg" width ="250" /> <img src = "24.jpeg" width ="250" /> <img src = "25.jpeg" width ="250" /> <img src = "26.jpeg" width ="250" /> <img src = "27.jpeg" width ="250" /> <img src = "28.jpeg" width ="250" /> <img src = "29.jpeg" width ="250" /> <img src = "30.jpeg" width ="250" /> <img src = "31.jpeg" width ="250" /> <img src = "32.jpeg" width ="250" /> <img src = "33.jpeg" width ="250" /> <img src = "34.jpeg" width ="250" /> <img src = "35.jpeg" width ="250" /> <img src = "36.jpeg" width ="250" /> <img src = "37.jpeg" width ="250" /> <img src = "38.jpeg" width ="250" /> <img src = "39.jpeg" width ="250" />  
+<img src = "21.jpg" width ="250" /> <img src = "22.jpg" width ="250" /> <img src = "23.jpg" width ="250" /> <img src = "24.jpg" width ="250" /> <img src = "25.jpg" width ="250" /> <img src = "26.jpg" width ="250" /> <img src = "27.jpg" width ="250" /> <img src = "28.jpg" width ="250" /> <img src = "29.jpg" width ="250" /> <img src = "30.jpg" width ="250" /> <img src = "31.jpg" width ="250" /> <img src = "32.jpg" width ="250" /> <img src = "33.jpg" width ="250" /> <img src = "34.jpg" width ="250" /> <img src = "35.jpg" width ="250" /> <img src = "36.jpg" width ="250" /> <img src = "37.jpg" width ="250" /> <img src = "38.jpg" width ="250" /> <img src = "39.jpg" width ="250" />  
