@@ -65,4 +65,12 @@ TECHNOLOGIES & TOOLS USED
 
 GUEST SIDE SCREENSHOTS
 
-<img src = "1.jpg" width ="250" /> <img src = "2.jpg" width ="250" /> <img src = "3.jpg" width ="250" /> <img src = "4.jpg" width ="250" /> <img src = "5.jpg" width ="250" /> <img src = "6.jpg" width ="250" /> <img src = "7.jpg" width ="250" /> <img src = "8.jpg" width ="250" /> <img src = "9.jpg" width ="250" /> <img src = "10.jpg" width ="250" /> <img src = "11.jpg" width ="250" /> <img src = "12.jpg" width ="250" /> 
+<img src = "1.jpg" width ="250" /> <img src = "10.jpg" width ="250" /> <img src = "12.jpg" width ="250" />  <img src = "2.jpg" width ="250" /> <img src = "3.jpg" width ="250" /> <img src = "4.jpg" width ="250" /> <img src = "5.jpg" width ="250" /> <img src = "6.jpg" width ="250" /> <img src = "7.jpg" width ="250" /> <img src = "8.jpg" width ="250" /> <img src = "9.jpg" width ="250" />  <img src = "11.jpg" width ="250" /> 
+
+TRANSLATOR SCREENSHOTS
+
+<img src = "13.jpeg" width ="250" /> <img src = "14.jpeg" width ="250" /> <img src = "15.jpeg" width ="250" /> <img src = "16.jpeg" width ="250" /> <img src = "17.jpeg" width ="250" /> <img src = "18.jpeg" width ="250" /> <img src = "19.jpeg" width ="250" /> <img src = "20.jpeg" width ="250" /> 
+
+TRANSLATION OFFICE SCREENSHOTS
+
+<img src = "21.jpeg" width ="250" /> <img src = "22.jpeg" width ="250" /> <img src = "23.jpeg" width ="250" /> <img src = "24.jpeg" width ="250" /> <img src = "25.jpeg" width ="250" /> <img src = "26.jpeg" width ="250" /> <img src = "27.jpeg" width ="250" /> <img src = "28.jpeg" width ="250" /> <img src = "29.jpeg" width ="250" /> <img src = "30.jpeg" width ="250" /> <img src = "31.jpeg" width ="250" /> <img src = "32.jpeg" width ="250" /> <img src = "33.jpeg" width ="250" /> <img src = "34.jpeg" width ="250" /> <img src = "35.jpeg" width ="250" /> <img src = "36.jpeg" width ="250" /> <img src = "37.jpeg" width ="250" /> <img src = "38.jpeg" width ="250" /> <img src = "39.jpeg" width ="250" />  
